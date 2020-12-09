@@ -6,12 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the Molecular Cytology Core Facility intranet pages. We provide consulation, training and technical assistance in a range of technologies:
-
-- [Automated Histology](autohistology.html): immunohistochemistry, immunofluorescence, RNA *in situ* hybridization, and TUNEL assays
-- [Manual Histology](manualhistology.html): fixation, embedding, sectioning and IHC, UF and RNA *in situ* hybridization
-- [Microscopy](microscopy.html): widefield, confocal and atomic force microscopy, live and time-lapse imaging, and image processing/analysis. 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -59,10 +53,17 @@ Welcome to the Molecular Cytology Core Facility intranet pages. We provide consu
   </a>
 </div>
 
+
+Welcome to the Molecular Cytology Core Facility intranet pages. We provide consulation, training and technical assistance in a range of technologies:
+
+- [Automated Histology](autohistology.html): immunohistochemistry, immunofluorescence, RNA *in situ* hybridization, and TUNEL assays
+- [Manual Histology](manualhistology.html): fixation, embedding, sectioning and IHC, UF and RNA *in situ* hybridization
+- [Microscopy](microscopy.html): widefield, confocal and atomic force microscopy, live and time-lapse imaging, and image processing/analysis. 
+
 ## To become a user
 Go to [iLab](https://ilab.mskcc.org), sign in using your MSKCC ID and password, and follow the instructions. A confirmation email will be sent to your PI, which they must sign off on. For any questions, contact <mccf@mskcc.org>. 
 
-##To use our facility
+## To use our facility
 For microscopy and histology experiments, sign up on [iLab](https://ilab.mskcc.org). A list of charges can be found on our [charges page](charges).
 
 For staining experiments, please fill out our [submission form](downloads/submissionform.pdf). FILL IN REST OF POLICY HERE.
