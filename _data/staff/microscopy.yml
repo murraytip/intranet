@@ -1,0 +1,29 @@
+- name: Yevgeniy Romin
+  photo: dummy.png 
+  info: 
+  email: rominy@mskcc.org
+
+- name: Murray Tipping, DPhil
+  photo: dummy.png 
+  info: 
+  email: tippingm@mskcc.org
+
+- name: Eric Chan
+  photo: dummy.png
+  info:
+  email: chane@mskcc.org
+
+- name: Biran Wang, PhD 
+  photo: dummy.png 
+  info: 
+  email: wangb2@mskcc.org
+
+- name: Anthony Santella, PhD
+  photo: dummy.png 
+  info: 
+  email: santella@mskcc.org
+
+- name: Eric Rosiek
+  photo: dummy.png
+  info: 
+  email: rosieke@mskcc.org

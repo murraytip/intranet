@@ -1,0 +1,9 @@
+- name: Katia Manova, PhD 
+  photo: dummy.png 
+  info: Core Director
+  email: manovak@mskcc.org
+
+- name: Rachel Kong
+  photo: dummy.png
+  info: Admin Assistant
+  email: kongr@mskcc.org
