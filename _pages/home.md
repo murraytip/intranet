@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "MCCF - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "MCCF at MSKCC"
 sitemap: false
 permalink: /
 ---
