@@ -31,6 +31,8 @@ The Molecular Cytology Core Facility can assist with all types of visualization 
 
 ### Commercial (available on our workstations, bookable through [iLab](https://ilab.mskcc.org))
 
+- [CaseViewer](https://www.3dhistech.com/research/software/digital-microscopes-viewers/caseviewer/) Software for opening, viewing and navigating whole slide microscopy images.
+
 - [Imaris](https://imaris.oxinst.com/) Interactive visualization and image analysis package with tools for segmenting and tracking most 3D structures. 
 
 - [Matlab](https://www.mathworks.com/products/matlab.html) General purpose programming language, often the quickest way to prototype novel image analysis methods or preprocessing methods and to develop novel data analysis routines.

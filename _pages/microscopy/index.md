@@ -52,7 +52,7 @@ We have a range of widefield and confocal microscopes suitable for imaging live 
 - Airyscan module for super-resolution imaging
 - Environmental chamber for live samples
 - Capable of FRET, FRAP and FC(C)S assays
-- 405, 488, 561, 635 nm laser lines
+- 405, 488, 561, 594, 635 nm laser lines
 
 ### [Leica SP8](sp8)
 
@@ -67,13 +67,13 @@ We have a range of widefield and confocal microscopes suitable for imaging live 
 
 - Spectral imaging for multiplexed samples
 - Environmental chamber for live samples
-- Capable of FRET and FRAP assays
+- Capable of performing FRET and FRAP assays
 - 405, 458, 476, 488, 496, 514, 543, 594, 633 nm laser lines
  
 ### [Leica SP5 Upright](sp5u)
 
 - Spectral imaging for multiplexed samples
-- Capable for FRET assays
+- Capable of performing FRET assays
 - 405, 458, 476, 488, 496, 514, 543, 594, 633 nm laser lines
 
 ## Widefield Microscopes
@@ -101,8 +101,17 @@ We have a range of widefield and confocal microscopes suitable for imaging live 
 
 ## [Atomic Force Microscopes](afm)
 
-Insert text here
+- Imaging of structures beyond the optical limit
+- Measuring topological and mechanical changes in organic and inorganic samples
+- Combined AFM and optical fluorescence microscopy
 
 ## [Slide Scanners](scanners)
 
-Insert text here
+- High speed imaging and digitization of entire slides
+- Fluorescent and brightfield images with high resolution and clarity
+- Imaging of single planes or Z-stacks through confocal scanning
+
+## [Stereoscopes](lumar)
+
+- Screening of large specimens
+- Whole tissue and whole animal brightfield and fluorescence imaging
