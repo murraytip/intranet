@@ -20,40 +20,41 @@ Due to the vast array of experiments that can be conducted with AFM, we urge our
 - Heated stage enables control of the environmental conditions
 
 ### Probes
-| Manufacturer  | Model Number                   |
-|---------------|--------------------------------|
-| NanoWorld     | PNP-TR                         |
-| NanoWorld     | PNP-DB                         |
-| biotool       | PNP-TR (high dense carbon tip) |
-| BudgetSensors | SiNi                           |
-| NanoSensors   | SSS-SEIHR                      |
-| NanoWorld     | NCSTR                          |
-| NanoSensors   | PPP-CONTSC                     |
-| NanoWorld     | ARROW-NCR                      |
-| MicroMasch    | HQ:CSC38/AL BS                 |
-| Olympus       | AC240TS                        |
-| Olympus       | AC160TS                        |
-| BudgetSensors | Contact                        |
-| BudgetSensors | ContDLC                        |
-| Bruker        | MPP-12120                      |
-| Bruker        | MPP-11120                      |
-| Bruker        | DNP                            |
-| Bruker        | DNP-S                          |
-| Bruker        | ORC8                           |
-| Bruker        | OTR8                           |
-| Bruker        | OTR4                           |
-| Olympus       | TR400PB                        |
-| Olympus       | BL-TR400PB                     |
-| Bruker        | SNL                            |
-| Bruker        | SA-AIR                         |
-| Bruker        | SA-Fluid+                      |
-| Bruker        | MSNL                           |
-| Bruker        | MSCT                           |
-| Bruker        | MLCT-UC                        |
-| Bruker        | SA-Fluid                       |
-| Bruker        | NPG                            |
-| Bruker        | OBL                            |
-| Bruker        | MLCT-O                         |
-| NanoSensors   | PPP-NCLAuD                     |
-| NanoSensors   | PPP-BSI                        |
-| NanoSensors   | PPP-CONTSCAu                   |
+
+| Manufacturer &nbsp; &nbsp; &nbsp; &nbsp; | Model Number                   |
+| ---------------------------------------- | ------------------------------ |
+| NanoWorld                                | PNP-TR                         |
+| NanoWorld                                | PNP-DB                         |
+| biotool                                  | PNP-TR (high dense carbon tip) |
+| BudgetSensors                            | SiNi                           |
+| NanoSensors                              | SSS-SEIHR                      |
+| NanoWorld                                | NCSTR                          |
+| NanoSensors                              | PPP-CONTSC                     |
+| NanoWorld                                | ARROW-NCR                      |
+| MicroMasch                               | HQ:CSC38/AL BS                 |
+| Olympus                                  | AC240TS                        |
+| Olympus                                  | AC160TS                        |
+| BudgetSensors                            | Contact                        |
+| BudgetSensors                            | ContDLC                        |
+| Bruker                                   | MPP-12120                      |
+| Bruker                                   | MPP-11120                      |
+| Bruker                                   | DNP                            |
+| Bruker                                   | DNP-S                          |
+| Bruker                                   | ORC8                           |
+| Bruker                                   | OTR8                           |
+| Bruker                                   | OTR4                           |
+| Olympus                                  | TR400PB                        |
+| Olympus                                  | BL-TR400PB                     |
+| Bruker                                   | SNL                            |
+| Bruker                                   | SA-AIR                         |
+| Bruker                                   | SA-Fluid+                      |
+| Bruker                                   | MSNL                           |
+| Bruker                                   | MSCT                           |
+| Bruker                                   | MLCT-UC                        |
+| Bruker                                   | SA-Fluid                       |
+| Bruker                                   | NPG                            |
+| Bruker                                   | OBL                            |
+| Bruker                                   | MLCT-O                         |
+| NanoSensors                              | PPP-NCLAuD                     |
+| NanoSensors                              | PPP-BSI                        |
+| NanoSensors                              | PPP-CONTSCAu                   |
