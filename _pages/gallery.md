@@ -6,8 +6,6 @@ permalink: /gallery/
 ---
 
 # Gallery
-Jump to: [Microscopy](#Microscopy); [Image Analysis](#Image Analysis)
-
 
 ## Microscopy 
 (Right-click *'view image'* to see a larger image.)
