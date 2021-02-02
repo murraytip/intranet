@@ -3,7 +3,7 @@ title: "Histological Staining"
 layout: textlay
 excerpt: "Histological Staining"
 sitemap: false
-permalink: /manualhistology/histologcialstaining
+permalink: /manualhistology/histologicalstaining
 ---
 
 We carry more than 30 different dyes used in histological staining and have established protocols for more than 30 different methods of histological staining.
