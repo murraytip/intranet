@@ -1,5 +1,101 @@
-- title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
-  authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
+- title: "Tumor Targeted Nanoparticles Improve Therapeutic Index of BCL2 and MCL1 dual inhibition"
+  authors: Bala Tannan N, Manzari MT, Herviou L, da Silva Ferreira M, Hagen CJ, Kiguchi H, Manova-Todorova K, Seshan VE, de Stanchina E, Heller DA, Younes A
   link:
-    url: https://www.nature.com/articles/s41378-020-00209-y
-    display:  Microsyst Nanoeng 6, 99 (2020)
+    url: https://doi.org/10.1182/blood.2020008017
+    display: Blood 2020, Oct 16 
+
+- title: "Anti gC1qR/p32/HABP1 Antibody Therapy Decreases Tumor Growth in an Orthotopic Murine Xenotransplant Model of Triple Negative Breast Cancer"
+  authors: Peerschke EI, Stanchina E, Chang Q, Manova-Todorova K, Barlas A, Savitt AG, Geisbrecht BV, Ghebrehiwet B. 
+  link:
+      url: https://doi.org/10.3390/antib9040051
+      display: Antibodies (Basel). 2020 Oct 6;9(4):51
+
+- title: "Cytotoxic lymphocytes use mechanosurveillance to target biophysical vulnerabilities in cancer"
+  authors: Maria Tello-Lafoz, Katja Srpan, Jing Hu, Yevgeniy Romin, Annalisa Calo, Katherine C. Hsu, Joan Massague, Morgan Huse, Ekrem Emrah Er
+  link:
+      url: https://doi.org/10.1101/2020.04.21.054304
+      display: bioRxiv, April 2020
+
+- title: "Spatial mapping of the collagen distribution in human and mouse tissues by force volume atomic force microscopy"
+  authors: Calò A, Romin Y, Srouji R, Zambirinis CP, Fan N, Santella A, Feng E, Fujisawa S, Turkekul M, Huang S, Simpson AL, D'Angelica M, Jarnagin WR, Manova-Todorova K.
+  link:
+      url: https://doi.org/10.1038/s41598-020-72564-9
+      display: Scientific Reports 2020, Sep 24;10(1):15664
+
+- title: "gC1qR/HABP1/p32 Is a Potential New Therapeutic Target Against Mesothelioma"
+  authors: Peerschke E, Stier K, Li X, Kandov E, de Stanchina E, Chang Q, Xiong Y, Manova-Todorova K, Fan N, Barlas A, Ghebrehiwet B, Adusumilli PS
+  link:
+      url: https://doi.org/10.3389/fonc.2020.01413
+      display: Front Oncol. 2020 Aug 12;10:1413
+
+- title: "Regenerative potential of prostate luminal cells revealed by single-cell analysis"
+  authors: Karthaus WR, Hofree M, Choi D, Linton EL, Turkekul M, Bejnood A, Carver B, Gopalan A, Abida W, Laudone V, Biton M, Chaudhary O, Xu T, Masilionis I, Manova K, Mazutis L, Pe'er D, Regev A, Sawyers CL
+  link:
+      url: https://doi.org/10.1126/science.aay0267
+      display: Science. 2020 May 1;368(6490):497-505
+
+- title: "Three-Dimensional Histologic, Immunohistochemical, and Multiplex Immunofluorescence Analyses of Dynamic Vessel Co-Option of Spread Through Air Spaces in Lung Adenocarcinoma"
+  authors: Yagi Y, Aly RG, Tabata K, Barlas A, Rekhtman N, Eguchi T, Montecalvo J, Hameed M, Manova-Todorova K, Adusumilli PS, Travis WD
+  link:
+      url: https://doi.org/10.1016/j.jtho.2019.12.112
+      display: J Thorac Oncol. 2020 Apr;15(4):589-600
+
+- title: "Potential Hydrodynamic Cytoplasmic Transfer between Mammalian Cells: Cell-Projection Pumping"
+  authors: Zoellner H, Paknejad N, Cornwell JA, Chami B, Romin Y, Boyko V, Fujisawa S, Kelly E, Lynch GW, Rogers G, Manova K, Moore MAS
+  link:
+      url: https://doi.org/10.1016/j.bpj.2020.01.025
+      display: Biophys J. 2020 Mar 24;118(6):1248-1260
+
+- title: "The epichaperome is a mediator of toxic hippocampal stress and leads to protein connectivity-based dysfunction"
+  authors: Inda MC, Joshi S, Wang T, Bolaender A, Gandu S, Koren Iii J, Che AY, Taldone T, Yan P, Sun W, Uddin M, Panchal P, Riolo M, Shah S, Barlas A, Xu K, Chan LYL, Gruzinova A, Kishinevsky S, Studer L, Fossati V, Noggle SA, White JR, de Stanchina E, Sequeira S, Anthoney KH, Steele JW, Manova-Todorova K, Patil S, Dunphy MP, Pillarsetty N, Pereira AC, Erdjument-Bromage H, Neubert TA, Rodina A, Ginsberg SD, De Marco Garcia N, Luo W, Chiosis G
+  link:
+      url: https://doi.org/10.1038/s41467-019-14082-5
+      display: Nat Commun. 2020 Jan 16;11(1):319
+
+- title: "L1CAM defines the regenerative origin of metastasis-initiating cells in colorectal cancer"
+  authors: Ganesh K, Basnet H, Kaygusuz Y, Laughney AM, He L, Sharma R, O'Rourke KP, Reuter VP, Huang YH, Turkekul M, Emrah E, Masilionis I, Manova-Todorova K, Weiser MR, Saltz LB, Garcia-Aguilar J, Koche R, Lowe SW, Pe'er D, Shia J, Massagué J
+  link:
+      url: https://doi.org/10.1038/s43018-019-0006-x
+      display: Nat Cancer. 2020 Jan;1(1):28-45
+      
+- title: "A rectal cancer organoid platform to study individual responses to chemoradiation"
+  authors: Ganesh K, Wu C, O'Rourke KP, Szeglin BC, Zheng Y, Sauvé CG, Adileh M, Wasserman I, Marco MR, Kim AS, Shady M, Sanchez-Vega F, Karthaus WR, Won HH, Choi SH, Pelossof R, Barlas A, Ntiamoah P, Pappou E, Elghouayel A, Strong JS, Chen CT, Harris JW, Weiser MR, Nash GM, Guillem JG, Wei IH, Kolesnick RN, Veeraraghavan H, Ortiz EJ, Petkovska I, Cercek A, Manova-Todorova KO, Saltz LB, Lavery JA, DeMatteo RP, Massagué J, Paty PB, Yaeger R, Chen X, Patil S, Clevers H, Berger MF, Lowe SW, Shia J, Romesser PB, Dow LE, Garcia-Aguilar J, Sawyers CL, Smith JJ
+  link:
+      url: https://doi.org/10.1038/s41591-019-0584-2
+      display: Nat Med. 2019 Oct;25(10):1607-1614
+
+- title: "Intercellular Transfer of Oncogenic KRAS via Tunneling Nanotubes Introduces Intracellular Mutational Heterogeneity in Colon Cancer Cells"
+  authors: Desir S, Wong P, Turbyville T, Chen D, Shetty M, Clark C, Zhai E, Romin Y, Manova-Todorova K, Starr TK, Nissley DV, Steer CJ, Subramanian S, Lou E
+  link:
+      url: https://doi.org/10.3390/cancers11070892
+      display: Cancers (Basel). 2019 Jun 26;11(7):892
+
+- title: "Intestinal Bile Acids Induce a Morphotype Switch in Vancomycin-Resistant Enterococcus that Facilitates Intestinal Colonization"
+  authors: McKenney PT, Yan J, Vaubourgeix J, Becattini S, Lampen N, Motzer A, Larson PJ, Dannaoui D, Fujisawa S, Xavier JB, Pamer EG
+  link:
+      url: https://doi.org/10.1016/j.chom.2019.03.008
+      display: Cell Host Microbe. 2019 May 8;25(5):695-705.e5
+
+- title: "SMAD4 Loss in Colorectal Cancer Patients Correlates with Recurrence, Loss of Immune Infiltrate, and Chemoresistance"
+  authors: Wasserman I, Lee LH, Ogino S, Marco MR, Wu C, Chen X, Datta J, Sadot E, Szeglin B, Guillem JG, Paty PB, Weiser MR, Nash GM, Saltz L, Barlas A, Manova-Todorova K, Uppada SPB, Elghouayel AE, Ntiamoah P, Glickman JN, Hamada T, Kosumi K, Inamura K, Chan AT, Nishihara R, Cercek A, Ganesh K, Kemeny NE, Dhawan P, Yaeger R, Sawyers CL, Garcia-Aguilar J, Giannakis M, Shia J, Smith JJ
+  link:
+      url: https://doi.org/10.1158/1078-0432.CCR-18-1726
+      display: Clin Cancer Res. 2019 Mar 15;25(6):1948-1956
+
+- title: "Mouse DCUN1D1 (SCCRO) is required for spermatogenetic individualization"
+  authors: Huang G, Kaufman AJ, Ryan RJH, Romin Y, Huryn L, Bains S, Manova-Todorova K, Morris PL, Hunnicutt GR, Adelman CA, Petrini JHJ, Ramanathan Y, Singh B
+  link:
+      url: https://doi.org/10.1371/journal.pone.0209995
+      display: PLoS One. 2019 Jan 17;14(1):e0209995
+
+- title: "Conformation-specific antibodies against multiple amyloid protofibril species from a single amyloid immunogen"
+  authors: Bonito-Oliva A, Schedin-Weiss S, Younesi SS, Tiiman A, Adura C, Paknejad N, Brendel M, Romin Y, Parchem RJ, Graff C, Vukojević V, Tjernberg LO, Terenius L, Winblad B, Sakmar TP, Graham WV
+  link:
+      url: https://doi.org/10.1111/jcmm.14119
+      display: J Cell Mol Med. 2019 Mar;23(3):2103-2114
+
+- title: "The Drosophila Ninein homologue Bsg25D cooperates with Ensconsin in myonuclear positioning"
+  authors: Rosen JN, Azevedo M, Soffar DB, Boyko VP, Brendel MB, Schulman VK, Baylies MK
+  link:
+      url: https://doi.org/10.1083/jcb.201808176
+      display: J Cell Biol. 2019 Feb 4;218(2):524-540
