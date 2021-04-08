@@ -26,6 +26,9 @@ permalink: /
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/home_slider/tubulin.jpg" alt="Slide 3" />
+         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home_slider/YR-Lorenz.jpg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
