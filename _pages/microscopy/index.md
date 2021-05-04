@@ -69,6 +69,12 @@ We have a range of widefield and confocal microscopes suitable for imaging live 
 - Measuring topological and mechanical changes in organic and inorganic samples
 - Combined AFM and optical fluorescence microscopy
 
+## [Optical Tweezers](ctrap)
+
+- Measure and manipulate single biological molecules at piconewton resolution
+- Multiple optical traps available for 
+- Combined trapping and confocal fluorescence microscopy 
+
 ## [Slide Scanners](scanners)
 
 - High speed imaging and digitization of entire slides

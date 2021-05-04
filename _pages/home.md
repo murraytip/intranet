@@ -46,7 +46,7 @@ Welcome to the Molecular Cytology Core Facility intranet pages. We provide consu
 
 - [Automated Histology](autohistology): immunohistochemistry, immunofluorescence, RNA *in situ* hybridization, and TUNEL assays
 - [Manual Histology](manualhistology): fixation, embedding, sectioning and IHC, UF and RNA *in situ* hybridization
-- [Microscopy](microscopy): widefield, confocal and atomic force microscopy, live and time-lapse imaging, and image processing/analysis. 
+- [Microscopy](microscopy): widefield, confocal and atomic force microscopy, optical trapping, live and time-lapse imaging, and image processing/analysis. 
 
 The Core can also also assist with tissue clearing, expansion microscopy, and downstream image analysis.
 
