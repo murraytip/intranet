@@ -17,7 +17,6 @@ We are expert in:
 - Tissue fixation
 - Decalcification of mineralized tissues
 - Tissue processing for spatial transcriptomics
-- Tissue processing for Laser Capture Microdissection (LCM)
 - Tissue embedding
 	- Embedding in paraffin
 	- Cryo-embedding of fixed tissue

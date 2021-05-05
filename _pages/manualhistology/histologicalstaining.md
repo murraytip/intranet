@@ -7,7 +7,7 @@ permalink: /manualhistology/histologicalstaining
 ---
 # Histological Staining
 
-We carry more than 30 different dyes used in histological staining and have established protocols for more than 30 different methods of histological staining.
+We provide dyes used in histological staining and have established protocols for histological staining.
 
 Protocols and reagents are also available for some enzyme-histochemistry methods like x-gal and alkaline phosphatase staining. 
 
