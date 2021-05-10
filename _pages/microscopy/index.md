@@ -72,7 +72,7 @@ We have a range of widefield and confocal microscopes suitable for imaging live 
 ## [Optical Tweezers](ctrap)
 
 - Measure and manipulate single biological molecules at piconewton resolution
-- Multiple optical traps available for 
+- Multiple optical traps available for investigating complex interactions
 - Combined trapping and confocal fluorescence microscopy 
 
 ## [Slide Scanners](scanners)

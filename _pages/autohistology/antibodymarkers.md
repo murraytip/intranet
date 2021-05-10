@@ -58,6 +58,23 @@ permalink: /autohistology/antibodymarkers
 | EMA-1                              | OxPhos                   | Vimentin          |
 |                                    |                          | VWF               |
 
+## List of mouse-specific antibodies
+
+| Mouse-specific antibodies |
+|---------------------------|
+| CD 206      | F4/80  |
+| CD 31       | FOXP3  |
+| CD 34       | Lamp 1 |
+| CD4         | Lamp 2 |
+| CD 45       | Lyve1  |
+| CD 68       | Meca32 |
+| CD 8a       | Nanog  |
+| cGAS        | Olfm4  |
+| C-myc       | p53    |
+| Collagen IV | PD-1   |
+| EpCAM       | PD-L1  |
+|             | Rab6   |
+
 ## List of human-specific antibodies
 
 | Human-specific antibodies             |
