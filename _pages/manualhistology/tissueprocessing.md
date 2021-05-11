@@ -26,7 +26,7 @@ We are expert in:
 	- Paraffin sectioning
 	- Cryo-sectioning
 	- Vibratome sectioning
-- Other histology sercices
+- Other histology services
 	- Counterstaining 
 	- Mounting media for fluorescence staining
 	- Dewaxing and dehydrating

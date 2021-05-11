@@ -11,9 +11,9 @@ Our staff can train and guide you through all the steps of tissue processing and
 
 We can aid with:
 
-- [Tissue processing](tissueprocessing)
-- [Histological staining](histologicalstaining)
-- [Manual *in situ* detection](manualdetection)
+- [Tissue processing](tissueprocessing.html)
+- [Histological staining](histologicalstaining.html)
+- [Manual *in situ* detection](manualdetection.html)
 
 We can also advise and assist on all steps of tissue clearing and expansion microscopy using a variety of different methods. We also offer spatial transcriptomics assays on tissue sections in collaboration with IGO, using the Visium Spatial Transcriptomics kit from [10x Genomics](https://www.10xgenomics.com).
 
