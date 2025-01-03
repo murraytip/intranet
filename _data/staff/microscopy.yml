@@ -3,22 +3,22 @@
   info: 
   email: rominy@mskcc.org
 
-- name: Murray Tipping, DPhil
+- name: Michael Galiano
   photo: dummy.png 
   info: 
-  email: tippingm@mskcc.org
+  email: galianom@mskcc.org
 
 - name: Eric Chan
   photo: dummy.png
   info:
   email: chane@mskcc.org
 
-- name: Biran Wang, PhD 
+- name: Young Hun Kim
   photo: dummy.png 
   info: 
-  email: wangb2@mskcc.org
+  email: kimy10@mskcc.org
 
-- name: Anthony Santella, PhD
+- name: Anthony Santella
   photo: dummy.png 
   info: 
   email: santella@mskcc.org
@@ -27,3 +27,8 @@
   photo: dummy.png
   info: 
   email: rosieke@mskcc.org
+
+- name: Nada Wahman
+  photo: dummy.png
+  info:
+  email: wahmann@mskcc.org

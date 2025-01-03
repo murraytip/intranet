@@ -1,14 +1,19 @@
-- name: Radoslav Junka, PhD 
-  photo: dummy.png 
-  info: 
-  email: junkar@mskcc.org
-  
 - name: Ning Fan 
   photo: dummy.png 
   info: 
   email: fann@mskcc.org
 
-- name: Tara Otegui
+- name: Bikhyat Shrestha
   photo: dummy.png 
   info: 
-  email: oteguit@mskcc.org
+  email: shrestb@mskcc.org
+
+- name: Crystal Huang
+  photo: dummy.png
+  info:
+  email: huangc12@mskcc.org
+
+- name: Jahkwaun Budhai
+  photo: dummy.png
+  info:
+  email: budhaij1@mskcc.org

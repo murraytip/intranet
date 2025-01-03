@@ -42,22 +42,19 @@ permalink: /
 </div>
 
 
-Welcome to the Molecular Cytology Core Facility intranet pages. We provide consulation, training and technical assistance in a range of technologies:
+Welcome to the Molecular Cytology Core Facility intranet site. We provide consulation, training and technical assistance in a range of technologies:
 
-- [Automated Histology](autohistology): immunohistochemistry, immunofluorescence, RNA *in situ* hybridization, and TUNEL assays
-- [Manual Histology](manualhistology): fixation, embedding, sectioning and IHC, IF and RNA *in situ* hybridization
-- [Microscopy](microscopy): widefield, confocal and atomic force microscopy, optical trapping, live and time-lapse imaging, and image processing/analysis. 
+- [Automated Histology](autohistology): immunohistochemistry, immunofluorescence, RNA *in situ* hybridization and TUNEL assays
+- [Manual Histology](manualhistology): fixation, embedding, sectioning, histological and whole mount staining, tissue clearing and expansion microscopy
+- [Microscopy](microscopy): widefield, confocal and atomic force microscopy, optical trapping, live and time-lapse imaging, and image processing/analysis 
+- [Cytogenetics](cytogenetics): mouse and human karyotyping, DNA-FISH, spectral karyotyping and optical genome mapping
 
-The Core can also also assist with tissue clearing, expansion microscopy, and downstream image analysis.
-
-We offer advice and assistance with Spatial Transcriptomics assays in collaboration with IGO, using the [Visium Spatial Transcriptomics system](https://www.10xgenomics.com/products/spatial-gene-expression) from 10X Genomics.
+We offer advice and sample preparation for Spatial Transcriptomics assays in collaboration with [IGO](https://genomics.mskcc.org) and [SAIL](https://www.mskcc.org/research/ski/innovation-labs/single-cell-analytics-innovation-lab-sail) using the 10x Genomics Visium HD and Xenium platforms.
 
 ## To become a user
 Go to [iLab](https://ilab.mskcc.org), sign in using your MSKCC ID and password, and follow the instructions. A confirmation email will be sent to your PI, which they must sign off on. For any questions, contact <mccf@mskcc.org>. 
 
 ## To use our facility
-For microscopy and histology experiments, sign up on [iLab](https://ilab.mskcc.org). A list of charges can be found on our [charges page](charges).
-
-For staining experiments, please fill out our [submission form](downloads/submissionform.pdf). 
+All internal service and equipment scheduling requests are done through iLab, either directly or with the assistance of a [member of core staff](staff). The iLab site also contains up-to-date information on pricing and equipment availability.
 
 Our cancellation and co-authorship/acknowledgement policies can be found on our [policies page](policies).

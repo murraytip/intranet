@@ -1,9 +1,24 @@
-- name: Afsar Barlas, MD 
+- name: Afsar Barlas
   photo: dummy.png 
   info: 
   email: barlasa@mskcc.org
 
-- name: Frank Liu  
+- name: Wenfei Kang
   photo: dummy.png 
   info: 
-  email: liux5@mskcc.org
+  email: kangw@mskcc.org
+
+- name: Yicong Wang
+  photo: dummy.png 
+  info: 
+  email: wangy19@mskcc.org
+
+- name: Shevin Narine
+  photo: dummy.png 
+  info: 
+  email: narines3@mskcc.org
+
+- name: Francesca Mazzoni
+  photo: dummy.png 
+  info: 
+  email: mazzonf1@mskcc.org
