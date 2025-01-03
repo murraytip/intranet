@@ -10,7 +10,7 @@ permalink: /staff/
 
 ## MCCF Administration
 
-### Core Director 646-888-2167 (ext. x125-2173)
+### Core Director 646-888-2167 (ext. x125-2167)
 ### Admin 646-888-2665 (ext. x125-2665)
 
 {% assign number_printed = 0 %}
